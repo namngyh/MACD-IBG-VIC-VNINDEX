@@ -1,0 +1,26 @@
+{
+  "highest_total_return": "Buy & Hold",
+  "best_max_drawdown": "MACD + full defensive exposure",
+  "best_calmar": "Buy & Hold",
+  "best_sortino": "Buy & Hold",
+  "full_defensive_total_return": -0.0022452501097218747,
+  "full_defensive_max_drawdown": -0.02469784231520389,
+  "full_defensive_calmar": -0.04825493416045219,
+  "full_defensive_sortino": -0.03349422057995723,
+  "macd_total_return": 3.774727941598571,
+  "macd_max_drawdown": -0.2495734676864969,
+  "max_drawdown_constraint": -0.15,
+  "full_defensive_meets_drawdown_constraint": true,
+  "output_dir": "outputs_vic_hybrid_optimization",
+  "best_params": {
+    "target_volatility": 0.12,
+    "loss_floor": -0.02,
+    "uncertainty_penalty_k": 0.0,
+    "profit_lock_threshold": 0.08,
+    "warning_drawdown": 0.08,
+    "danger_drawdown": 0.15,
+    "uncertainty_penalty_min": 0.25,
+    "uncertainty_penalty_max": 1.0
+  },
+  "best_validation_objective": -0.10628681630036788
+}

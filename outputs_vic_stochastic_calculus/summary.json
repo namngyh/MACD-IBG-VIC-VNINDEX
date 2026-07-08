@@ -1,0 +1,44 @@
+{
+  "rows": 2872,
+  "train_rows": 2010,
+  "test_rows": 862,
+  "train_start": "2015-01-06",
+  "train_end": "2023-01-17",
+  "test_start": "2023-01-18",
+  "test_end": "2026-07-08",
+  "forecast_metrics": {
+    "rmse_close": 2.6853281718259163,
+    "mae_close": 1.2567504457707792,
+    "r2_close": 0.9978902715165661,
+    "directional_accuracy": 0.5127610208816705,
+    "mean_forecast_daily_return": 0.0015198671993983319,
+    "mean_actual_daily_return": 0.002411819652598128,
+    "mean_forecast_daily_volatility": 0.023579424047904522
+  },
+  "strategy_metrics": {
+    "total_return": 3.20997248115024,
+    "cagr": 0.5223128479393475,
+    "annual_volatility": 0.30073938354560825,
+    "sharpe": 1.5477524831178628,
+    "max_drawdown": -0.33117385758486706,
+    "win_rate": 0.16705336426914152
+  },
+  "macd_metrics": {
+    "total_return": 3.8115621754550295,
+    "cagr": 0.5829304385563865,
+    "annual_volatility": 0.306447514754303,
+    "sharpe": 1.6515039409544838,
+    "max_drawdown": -0.27100799686433286,
+    "win_rate": 0.25754060324825984
+  },
+  "benchmark_metrics": {
+    "total_return": 6.996376811594181,
+    "cagr": 0.836347514715128,
+    "annual_volatility": 0.40256226028403425,
+    "sharpe": 1.7112878071196505,
+    "max_drawdown": -0.47222222222222265,
+    "win_rate": 0.4709976798143852
+  },
+  "advanced_metric_rows": 378,
+  "output_dir": "outputs_vic_stochastic_calculus"
+}

@@ -1,0 +1,22 @@
+{
+  "highest_total_return": "Buy & Hold",
+  "best_max_drawdown": "MACD + full defensive exposure",
+  "best_calmar": "MACD only",
+  "best_sortino": "Buy & Hold",
+  "full_defensive_total_return": 0.09963783981313812,
+  "full_defensive_max_drawdown": -0.04439220600962823,
+  "full_defensive_calmar": 0.2282656141736731,
+  "full_defensive_sortino": 0.21265242978025184,
+  "macd_total_return": 8.243682848141942,
+  "macd_max_drawdown": -0.3522680899795889,
+  "max_drawdown_constraint": -0.15,
+  "full_defensive_meets_drawdown_constraint": true,
+  "output_dir": "outputs_vic_hybrid_defensive_exposure",
+  "stress_years": [
+    2018,
+    2020,
+    2022,
+    2023,
+    2026
+  ]
+}

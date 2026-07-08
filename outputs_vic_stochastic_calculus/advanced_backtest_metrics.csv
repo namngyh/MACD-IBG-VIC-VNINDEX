@@ -1,0 +1,379 @@
+portfolio,metric,metric_label,value
+Full Data - Ito,observations,Observations,2872.0
+"Full Data - MACD(6,26,12)",observations,Observations,2872.0
+Full Data - Buy & Hold,observations,Observations,2872.0
+Test - Ito,observations,Observations,862.0
+"Test - MACD(6,26,12)",observations,Observations,862.0
+Test - Buy & Hold,observations,Observations,862.0
+Full Data - Ito,years,Years,11.396825396825397
+"Full Data - MACD(6,26,12)",years,Years,11.396825396825397
+Full Data - Buy & Hold,years,Years,11.396825396825397
+Test - Ito,years,Years,3.4206349206349205
+"Test - MACD(6,26,12)",years,Years,3.4206349206349205
+Test - Buy & Hold,years,Years,3.4206349206349205
+Full Data - Ito,exposure,Market exposure,0.18628133704735375
+"Full Data - MACD(6,26,12)",exposure,Market exposure,0.5010445682451253
+Full Data - Buy & Hold,exposure,Market exposure,1.0
+Test - Ito,exposure,Market exposure,0.31322505800464034
+"Test - MACD(6,26,12)",exposure,Market exposure,0.5440835266821346
+Test - Buy & Hold,exposure,Market exposure,1.0
+Full Data - Ito,entries,Entries,50.0
+"Full Data - MACD(6,26,12)",entries,Entries,122.0
+Full Data - Buy & Hold,entries,Entries,
+Test - Ito,entries,Entries,15.0
+"Test - MACD(6,26,12)",entries,Entries,36.0
+Test - Buy & Hold,entries,Entries,
+Full Data - Ito,exits,Exits,49.0
+"Full Data - MACD(6,26,12)",exits,Exits,122.0
+Full Data - Buy & Hold,exits,Exits,
+Test - Ito,exits,Exits,14.0
+"Test - MACD(6,26,12)",exits,Exits,36.0
+Test - Buy & Hold,exits,Exits,
+Full Data - Ito,avg_daily_turnover,Average daily turnover,0.03447075208913649
+"Full Data - MACD(6,26,12)",avg_daily_turnover,Average daily turnover,0.08495821727019498
+Full Data - Buy & Hold,avg_daily_turnover,Average daily turnover,0.0
+Test - Ito,avg_daily_turnover,Average daily turnover,0.033642691415313224
+"Test - MACD(6,26,12)",avg_daily_turnover,Average daily turnover,0.08352668213457076
+Test - Buy & Hold,avg_daily_turnover,Average daily turnover,0.0
+Full Data - Ito,annual_turnover,Annual turnover,8.686629526462395
+"Full Data - MACD(6,26,12)",annual_turnover,Annual turnover,21.409470752089135
+Full Data - Buy & Hold,annual_turnover,Annual turnover,0.0
+Test - Ito,annual_turnover,Annual turnover,8.477958236658933
+"Test - MACD(6,26,12)",annual_turnover,Annual turnover,21.048723897911835
+Test - Buy & Hold,annual_turnover,Annual turnover,0.0
+Full Data - Ito,total_points,Total asset points,134.45709499999995
+"Full Data - MACD(6,26,12)",total_points,Total asset points,174.52840999999998
+Full Data - Buy & Hold,total_points,Total asset points,210.48
+Test - Ito,total_points,Total asset points,121.11159999999997
+"Test - MACD(6,26,12)",total_points,Total asset points,153.389775
+Test - Buy & Hold,total_points,Total asset points,193.1
+Full Data - Ito,annual_points,Annual asset points,11.797767388579382
+"Full Data - MACD(6,26,12)",annual_points,Annual asset points,15.313774136490249
+Full Data - Buy & Hold,annual_points,Annual asset points,18.468300835654595
+Test - Ito,annual_points,Annual asset points,35.406175406032474
+"Test - MACD(6,26,12)",annual_points,Annual asset points,44.84248642691415
+Test - Buy & Hold,annual_points,Annual asset points,56.451508120649656
+Full Data - Ito,avg_daily_points,Average daily points,0.046816537256267395
+"Full Data - MACD(6,26,12)",avg_daily_points,Average daily points,0.060768944986072417
+Full Data - Buy & Hold,avg_daily_points,Average daily points,0.07328690807799443
+Test - Ito,avg_daily_points,Average daily points,0.1405006960556844
+"Test - MACD(6,26,12)",avg_daily_points,Average daily points,0.1779463747099768
+Test - Buy & Hold,avg_daily_points,Average daily points,0.2240139211136891
+Full Data - Ito,best_day_points,Best day points,13.5
+"Full Data - MACD(6,26,12)",best_day_points,Best day points,14.197250000000011
+Full Data - Buy & Hold,best_day_points,Best day points,14.300000000000011
+Test - Ito,best_day_points,Best day points,13.5
+"Test - MACD(6,26,12)",best_day_points,Best day points,14.197250000000011
+Test - Buy & Hold,best_day_points,Best day points,14.300000000000011
+Full Data - Ito,worst_day_points,Worst day points,-12.300000000000011
+"Full Data - MACD(6,26,12)",worst_day_points,Worst day points,-12.300000000000011
+Full Data - Buy & Hold,worst_day_points,Worst day points,-12.300000000000011
+Test - Ito,worst_day_points,Worst day points,-12.300000000000011
+"Test - MACD(6,26,12)",worst_day_points,Worst day points,-12.300000000000011
+Test - Buy & Hold,worst_day_points,Worst day points,-12.300000000000011
+Full Data - Ito,total_return,Total return,6.560167535027094
+"Full Data - MACD(6,26,12)",total_return,Total return,11.403162201781209
+Full Data - Buy & Hold,total_return,Total return,20.594911937377656
+Test - Ito,total_return,Total return,3.20997248115024
+"Test - MACD(6,26,12)",total_return,Total return,3.8115621754550295
+Test - Buy & Hold,total_return,Total return,6.996376811594181
+Full Data - Ito,cagr,CAGR,0.19422353563185935
+"Full Data - MACD(6,26,12)",cagr,CAGR,0.24724168274718927
+Full Data - Buy & Hold,cagr,CAGR,0.30942604723567513
+Test - Ito,cagr,CAGR,0.5223128479393475
+"Test - MACD(6,26,12)",cagr,CAGR,0.5829304385563865
+Test - Buy & Hold,cagr,CAGR,0.836347514715128
+Full Data - Ito,annual_return_arithmetic,Annualized mean return,0.1963400975032359
+"Full Data - MACD(6,26,12)",annual_return_arithmetic,Annualized mean return,0.24873174084242422
+Full Data - Buy & Hold,annual_return_arithmetic,Annualized mean return,0.32229974513771514
+Test - Ito,annual_return_arithmetic,Annualized mean return,0.46547012765405044
+"Test - MACD(6,26,12)",annual_return_arithmetic,Annualized mean return,0.5060992783124386
+Test - Buy & Hold,annual_return_arithmetic,Annualized mean return,0.6888998876305948
+Full Data - Ito,annual_volatility,Annual volatility,0.19443820521492047
+"Full Data - MACD(6,26,12)",annual_volatility,Annual volatility,0.2365222731732266
+Full Data - Buy & Hold,annual_volatility,Annual volatility,0.3251050111271412
+Test - Ito,annual_volatility,Annual volatility,0.30073938354560825
+"Test - MACD(6,26,12)",annual_volatility,Annual volatility,0.306447514754303
+Test - Buy & Hold,annual_volatility,Annual volatility,0.40256226028403425
+Full Data - Ito,downside_volatility,Downside volatility,0.3103034618040795
+"Full Data - MACD(6,26,12)",downside_volatility,Downside volatility,0.2155975830017072
+Full Data - Buy & Hold,downside_volatility,Downside volatility,0.23252796933696646
+Test - Ito,downside_volatility,Downside volatility,0.35590102827290043
+"Test - MACD(6,26,12)",downside_volatility,Downside volatility,0.26322018041497897
+Test - Buy & Hold,downside_volatility,Downside volatility,0.2786520156823575
+Full Data - Ito,sharpe,Sharpe ratio,1.00978147420263
+"Full Data - MACD(6,26,12)",sharpe,Sharpe ratio,1.051620794546717
+Full Data - Buy & Hold,sharpe,Sharpe ratio,0.991371200401679
+Test - Ito,sharpe,Sharpe ratio,1.5477524831178628
+"Test - MACD(6,26,12)",sharpe,Sharpe ratio,1.6515039409544838
+Test - Buy & Hold,sharpe,Sharpe ratio,1.7112878071196505
+Full Data - Ito,sortino,Sortino ratio,0.6327357624749989
+"Full Data - MACD(6,26,12)",sortino,Sortino ratio,1.1536852008236784
+Full Data - Buy & Hold,sortino,Sortino ratio,1.386068721353071
+Test - Ito,sortino,Sortino ratio,1.3078639584517688
+"Test - MACD(6,26,12)",sortino,Sortino ratio,1.9227221769795517
+Test - Buy & Hold,sortino,Sortino ratio,2.472258763115819
+Full Data - Ito,calmar,Calmar ratio,0.5864700101881911
+"Full Data - MACD(6,26,12)",calmar,Calmar ratio,0.7018565966662345
+Full Data - Buy & Hold,calmar,Calmar ratio,0.44956338304388654
+Test - Ito,calmar,Calmar ratio,1.5771560344418156
+"Test - MACD(6,26,12)",calmar,Calmar ratio,2.1509713562002477
+Test - Buy & Hold,calmar,Calmar ratio,1.7710888546908576
+Full Data - Ito,max_drawdown,Max drawdown,-0.3311738575848667
+"Full Data - MACD(6,26,12)",max_drawdown,Max drawdown,-0.35226808997958914
+Full Data - Buy & Hold,max_drawdown,Max drawdown,-0.6882812500000002
+Test - Ito,max_drawdown,Max drawdown,-0.33117385758486706
+"Test - MACD(6,26,12)",max_drawdown,Max drawdown,-0.27100799686433286
+Test - Buy & Hold,max_drawdown,Max drawdown,-0.47222222222222265
+Full Data - Ito,avg_drawdown,Average drawdown,-0.1930257531491486
+"Full Data - MACD(6,26,12)",avg_drawdown,Average drawdown,-0.15327793422424585
+Full Data - Buy & Hold,avg_drawdown,Average drawdown,-0.2527188291446776
+Test - Ito,avg_drawdown,Average drawdown,-0.10389197122320007
+"Test - MACD(6,26,12)",avg_drawdown,Average drawdown,-0.14354009327733858
+Test - Buy & Hold,avg_drawdown,Average drawdown,-0.2603301832125687
+Full Data - Ito,ulcer_index,Ulcer index,0.19638876198217475
+"Full Data - MACD(6,26,12)",ulcer_index,Ulcer index,0.1742594247486227
+Full Data - Buy & Hold,ulcer_index,Ulcer index,0.33268278309925026
+Test - Ito,ulcer_index,Ulcer index,0.07207154221006853
+"Test - MACD(6,26,12)",ulcer_index,Ulcer index,0.1553388106458083
+Test - Buy & Hold,ulcer_index,Ulcer index,0.2968662629682291
+Full Data - Ito,max_drawdown_duration_days,Max drawdown duration days,1812.0
+"Full Data - MACD(6,26,12)",max_drawdown_duration_days,Max drawdown duration days,979.0
+Full Data - Buy & Hold,max_drawdown_duration_days,Max drawdown duration days,1085.0
+Test - Ito,max_drawdown_duration_days,Max drawdown duration days,70.0
+"Test - MACD(6,26,12)",max_drawdown_duration_days,Max drawdown duration days,397.0
+Test - Buy & Hold,max_drawdown_duration_days,Max drawdown duration days,426.0
+Full Data - Ito,avg_drawdown_duration_days,Average drawdown duration days,65.4054054054054
+"Full Data - MACD(6,26,12)",avg_drawdown_duration_days,Average drawdown duration days,59.04347826086956
+Full Data - Buy & Hold,avg_drawdown_duration_days,Average drawdown duration days,39.17391304347826
+Test - Ito,avg_drawdown_duration_days,Average drawdown duration days,10.08
+"Test - MACD(6,26,12)",avg_drawdown_duration_days,Average drawdown duration days,33.416666666666664
+Test - Buy & Hold,avg_drawdown_duration_days,Average drawdown duration days,27.0
+Full Data - Ito,win_rate,Daily win rate,0.09818941504178273
+"Full Data - MACD(6,26,12)",win_rate,Daily win rate,0.22527855153203344
+Full Data - Buy & Hold,win_rate,Daily win rate,0.4449860724233983
+Test - Ito,win_rate,Daily win rate,0.16705336426914152
+"Test - MACD(6,26,12)",win_rate,Daily win rate,0.25754060324825984
+Test - Buy & Hold,win_rate,Daily win rate,0.4709976798143852
+Full Data - Ito,loss_rate,Daily loss rate,0.08774373259052924
+"Full Data - MACD(6,26,12)",loss_rate,Daily loss rate,0.2600974930362117
+Full Data - Buy & Hold,loss_rate,Daily loss rate,0.42409470752089135
+Test - Ito,loss_rate,Daily loss rate,0.1334106728538283
+"Test - MACD(6,26,12)",loss_rate,Daily loss rate,0.27494199535962877
+Test - Buy & Hold,loss_rate,Daily loss rate,0.41879350348027844
+Full Data - Ito,avg_daily_return,Average daily return,0.0007791273710445869
+"Full Data - MACD(6,26,12)",avg_daily_return,Average daily return,0.0009870307176286675
+Full Data - Buy & Hold,avg_daily_return,Average daily return,0.0012789672426099807
+Test - Ito,avg_daily_return,Average daily return,0.0018471036811668667
+"Test - MACD(6,26,12)",avg_daily_return,Average daily return,0.002008330469493804
+Test - Buy & Hold,avg_daily_return,Average daily return,0.002733729712819821
+Full Data - Ito,median_daily_return,Median daily return,0.0
+"Full Data - MACD(6,26,12)",median_daily_return,Median daily return,0.0
+Full Data - Buy & Hold,median_daily_return,Median daily return,0.0
+Test - Ito,median_daily_return,Median daily return,0.0
+"Test - MACD(6,26,12)",median_daily_return,Median daily return,0.0
+Test - Buy & Hold,median_daily_return,Median daily return,0.0
+Full Data - Ito,best_day,Best day,0.06999999999999984
+"Full Data - MACD(6,26,12)",best_day,Best day,0.06999999999999984
+Full Data - Buy & Hold,best_day,Best day,0.06999999999999984
+Test - Ito,best_day,Best day,0.06999999999999984
+"Test - MACD(6,26,12)",best_day,Best day,0.06999999999999984
+Test - Buy & Hold,best_day,Best day,0.06999999999999984
+Full Data - Ito,worst_day,Worst day,-0.07044245241257191
+"Full Data - MACD(6,26,12)",worst_day,Worst day,-0.07009443861490028
+Full Data - Buy & Hold,worst_day,Worst day,-0.07009443861490028
+Test - Ito,worst_day,Worst day,-0.07003642384105951
+"Test - MACD(6,26,12)",worst_day,Worst day,-0.06999999999999995
+Test - Buy & Hold,worst_day,Worst day,-0.06999999999999995
+Full Data - Ito,skewness,Skewness,0.8350964693380437
+"Full Data - MACD(6,26,12)",skewness,Skewness,0.9709079220607117
+Full Data - Buy & Hold,skewness,Skewness,0.3585763309259934
+Test - Ito,skewness,Skewness,0.4717380955343468
+"Test - MACD(6,26,12)",skewness,Skewness,0.7889120627892274
+Test - Buy & Hold,skewness,Skewness,0.32163646526940737
+Full Data - Ito,excess_kurtosis,Excess kurtosis,17.50561548684113
+"Full Data - MACD(6,26,12)",excess_kurtosis,Excess kurtosis,9.075279866982582
+Full Data - Buy & Hold,excess_kurtosis,Excess kurtosis,3.3035971541523335
+Test - Ito,excess_kurtosis,Excess kurtosis,6.244892513578879
+"Test - MACD(6,26,12)",excess_kurtosis,Excess kurtosis,5.605516394762445
+Test - Buy & Hold,excess_kurtosis,Excess kurtosis,1.8352160322353757
+Full Data - Ito,var_95_daily,Daily VaR 95%,-0.006933789954337925
+"Full Data - MACD(6,26,12)",var_95_daily,Daily VaR 95%,-0.018196912289870203
+Full Data - Buy & Hold,var_95_daily,Daily VaR 95%,-0.028149726757995524
+Test - Ito,var_95_daily,Daily VaR 95%,-0.024529584847810516
+"Test - MACD(6,26,12)",var_95_daily,Daily VaR 95%,-0.0228540688575899
+Test - Buy & Hold,var_95_daily,Daily VaR 95%,-0.03561931185278555
+Full Data - Ito,cvar_95_daily,Daily CVaR 95%,-0.027407664500356452
+"Full Data - MACD(6,26,12)",cvar_95_daily,Daily CVaR 95%,-0.03316621866322264
+Full Data - Buy & Hold,cvar_95_daily,Daily CVaR 95%,-0.046552540748750385
+Test - Ito,cvar_95_daily,Daily CVaR 95%,-0.0467504937832463
+"Test - MACD(6,26,12)",cvar_95_daily,Daily CVaR 95%,-0.04165193186000282
+Test - Buy & Hold,cvar_95_daily,Daily CVaR 95%,-0.05623255344078799
+Full Data - Ito,var_99_daily,Daily VaR 99%,-0.042481045102447976
+"Full Data - MACD(6,26,12)",var_99_daily,Daily VaR 99%,-0.04573979477611941
+Full Data - Buy & Hold,var_99_daily,Daily VaR 99%,-0.06877845980455136
+Test - Ito,var_99_daily,Daily VaR 99%,-0.06951025359012164
+"Test - MACD(6,26,12)",var_99_daily,Daily VaR 99%,-0.06914557141506769
+Test - Buy & Hold,var_99_daily,Daily VaR 99%,-0.06956072373169152
+Full Data - Ito,cvar_99_daily,Daily CVaR 99%,-0.06145502135746933
+"Full Data - MACD(6,26,12)",cvar_99_daily,Daily CVaR 99%,-0.060765694855833045
+Full Data - Buy & Hold,cvar_99_daily,Daily CVaR 99%,-0.06957806088750076
+Test - Ito,cvar_99_daily,Daily CVaR 99%,-0.06978771834689322
+"Test - MACD(6,26,12)",cvar_99_daily,Daily CVaR 99%,-0.06966941508258817
+Test - Buy & Hold,cvar_99_daily,Daily CVaR 99%,-0.0697897939364241
+Full Data - Ito,profit_factor,Profit factor,1.5389826148653583
+"Full Data - MACD(6,26,12)",profit_factor,Profit factor,1.3440124745757855
+Full Data - Buy & Hold,profit_factor,Profit factor,1.2192775283005104
+Test - Ito,profit_factor,Profit factor,1.6128043835494188
+"Test - MACD(6,26,12)",profit_factor,Profit factor,1.547844820103511
+Test - Buy & Hold,profit_factor,Profit factor,1.3997406237721342
+Full Data - Ito,avg_win,Average winning day,0.02265701778707112
+"Full Data - MACD(6,26,12)",avg_win,Average winning day,0.017117484055732594
+Full Data - Buy & Hold,avg_win,Average winning day,0.015981643752076474
+Test - Ito,avg_win,Average winning day,0.029100193678337778
+"Test - MACD(6,26,12)",avg_win,Average winning day,0.02203227415459098
+Test - Buy & Hold,avg_win,Average winning day,0.020323854944043034
+Full Data - Ito,avg_loss,Average losing day,-0.01647470319965874
+"Full Data - MACD(6,26,12)",avg_loss,Average losing day,-0.011031137835380794
+Full Data - Buy & Hold,avg_loss,Average losing day,-0.013753158287666562
+Test - Ito,avg_loss,Average losing day,-0.022593256665346093
+"Test - MACD(6,26,12)",avg_loss,Average losing day,-0.013333265812723791
+Test - Buy & Hold,avg_loss,Average losing day,-0.016329667852716858
+Full Data - Ito,payoff_ratio,Payoff ratio,1.3752610600924478
+"Full Data - MACD(6,26,12)",payoff_ratio,Payoff ratio,1.5517423779105286
+Full Data - Buy & Hold,payoff_ratio,Payoff ratio,1.1620344518544772
+Test - Ito,payoff_ratio,Payoff ratio,1.288003500751272
+"Test - MACD(6,26,12)",payoff_ratio,Payoff ratio,1.6524289295699648
+Test - Buy & Hold,payoff_ratio,Payoff ratio,1.2445969585757153
+Full Data - Ito,omega_ratio_0,"Omega ratio, threshold 0",1.5389826148653583
+"Full Data - MACD(6,26,12)",omega_ratio_0,"Omega ratio, threshold 0",1.3440124745757855
+Full Data - Buy & Hold,omega_ratio_0,"Omega ratio, threshold 0",1.2192775283005104
+Test - Ito,omega_ratio_0,"Omega ratio, threshold 0",1.6128043835494188
+"Test - MACD(6,26,12)",omega_ratio_0,"Omega ratio, threshold 0",1.547844820103511
+Test - Buy & Hold,omega_ratio_0,"Omega ratio, threshold 0",1.3997406237721342
+Full Data - Ito,beta_to_benchmark,Beta to buy-and-hold,0.3566317309290277
+"Full Data - MACD(6,26,12)",beta_to_benchmark,Beta to buy-and-hold,0.528604325037385
+Full Data - Buy & Hold,beta_to_benchmark,Beta to buy-and-hold,
+Test - Ito,beta_to_benchmark,Beta to buy-and-hold,0.5555418934598152
+"Test - MACD(6,26,12)",beta_to_benchmark,Beta to buy-and-hold,0.5774470417778926
+Test - Buy & Hold,beta_to_benchmark,Beta to buy-and-hold,
+Full Data - Ito,alpha_annual,Annual alpha,0.08139778151678806
+"Full Data - MACD(6,26,12)",alpha_annual,Annual alpha,0.07836270160418111
+Full Data - Buy & Hold,alpha_annual,Annual alpha,
+Test - Ito,alpha_annual,Annual alpha,0.08275737967549583
+"Test - MACD(6,26,12)",alpha_annual,Annual alpha,0.10829607611902897
+Test - Buy & Hold,alpha_annual,Annual alpha,
+Full Data - Ito,correlation_to_benchmark,Correlation to benchmark,0.5962961997299704
+"Full Data - MACD(6,26,12)",correlation_to_benchmark,Correlation to benchmark,0.7265781470283397
+Full Data - Buy & Hold,correlation_to_benchmark,Correlation to benchmark,
+Test - Ito,correlation_to_benchmark,Correlation to benchmark,0.7436345638440119
+"Test - MACD(6,26,12)",correlation_to_benchmark,Correlation to benchmark,0.7585585626916019
+Test - Buy & Hold,correlation_to_benchmark,Correlation to benchmark,
+Full Data - Ito,tracking_error,Tracking error,0.2609834046313552
+"Full Data - MACD(6,26,12)",tracking_error,Tracking error,0.22337461025793987
+Full Data - Buy & Hold,tracking_error,Tracking error,
+Test - Ito,tracking_error,Tracking error,0.2691511492880988
+"Test - MACD(6,26,12)",tracking_error,Tracking error,0.2623137546072423
+Test - Buy & Hold,tracking_error,Tracking error,
+Full Data - Ito,information_ratio,Information ratio,-0.4826347016677173
+"Full Data - MACD(6,26,12)",information_ratio,Information ratio,-0.3293481036646867
+Full Data - Buy & Hold,information_ratio,Information ratio,
+Test - Ito,information_ratio,Information ratio,-0.8301274602301093
+"Test - MACD(6,26,12)",information_ratio,Information ratio,-0.6968777126912782
+Test - Buy & Hold,information_ratio,Information ratio,
+Full Data - Ito,active_return_annual,Annual active return,-0.12595964763447928
+"Full Data - MACD(6,26,12)",active_return_annual,Annual active return,-0.07356800429529096
+Full Data - Buy & Hold,active_return_annual,Annual active return,
+Test - Ito,active_return_annual,Annual active return,-0.22342975997654446
+"Test - MACD(6,26,12)",active_return_annual,Annual active return,-0.18280060931815625
+Test - Buy & Hold,active_return_annual,Annual active return,
+Full Data - Ito,up_capture,Up capture,0.312358505629488
+"Full Data - MACD(6,26,12)",up_capture,Up capture,0.5407961108209355
+Full Data - Buy & Hold,up_capture,Up capture,
+Test - Ito,up_capture,Up capture,0.5074150695595282
+"Test - MACD(6,26,12)",up_capture,Up capture,0.5917922408912887
+Test - Buy & Hold,up_capture,Up capture,
+Full Data - Ito,down_capture,Down capture,0.24688314659583135
+"Full Data - MACD(6,26,12)",down_capture,Down capture,0.48922991468244015
+Full Data - Buy & Hold,down_capture,Down capture,
+Test - Ito,down_capture,Down capture,0.4399864418873828
+"Test - MACD(6,26,12)",down_capture,Down capture,0.5341778804376974
+Test - Buy & Hold,down_capture,Down capture,
+Full Data - Ito,trades,Trades,50.0
+"Full Data - MACD(6,26,12)",trades,Trades,122.0
+Full Data - Buy & Hold,trades,Trades,
+Test - Ito,trades,Trades,15.0
+"Test - MACD(6,26,12)",trades,Trades,36.0
+Test - Buy & Hold,trades,Trades,
+Full Data - Ito,trade_win_rate,Trade win rate,0.54
+"Full Data - MACD(6,26,12)",trade_win_rate,Trade win rate,0.39344262295081966
+Full Data - Buy & Hold,trade_win_rate,Trade win rate,
+Test - Ito,trade_win_rate,Trade win rate,0.6666666666666666
+"Test - MACD(6,26,12)",trade_win_rate,Trade win rate,0.4166666666666667
+Test - Buy & Hold,trade_win_rate,Trade win rate,
+Full Data - Ito,avg_trade_return,Average trade return,0.06309553646629985
+"Full Data - MACD(6,26,12)",avg_trade_return,Average trade return,0.025516139568696528
+Full Data - Buy & Hold,avg_trade_return,Average trade return,
+Test - Ito,avg_trade_return,Average trade return,0.1616340643678271
+"Test - MACD(6,26,12)",avg_trade_return,Average trade return,0.05472967205488153
+Test - Buy & Hold,avg_trade_return,Average trade return,
+Full Data - Ito,median_trade_return,Median trade return,0.0011148994802890888
+"Full Data - MACD(6,26,12)",median_trade_return,Median trade return,-0.008568162785484112
+Full Data - Buy & Hold,median_trade_return,Median trade return,
+Test - Ito,median_trade_return,Median trade return,0.053686143210283754
+"Test - MACD(6,26,12)",median_trade_return,Median trade return,-0.011035236849108565
+Test - Buy & Hold,median_trade_return,Median trade return,
+Full Data - Ito,best_trade,Best trade,2.0599139316734787
+"Full Data - MACD(6,26,12)",best_trade,Best trade,0.5728878239015711
+Full Data - Buy & Hold,best_trade,Best trade,
+Test - Ito,best_trade,Best trade,2.0599139316734787
+"Test - MACD(6,26,12)",best_trade,Best trade,0.5728878239015711
+Test - Buy & Hold,best_trade,Best trade,
+Full Data - Ito,worst_trade,Worst trade,-0.11511821528875332
+"Full Data - MACD(6,26,12)",worst_trade,Worst trade,-0.10229844895089646
+Full Data - Buy & Hold,worst_trade,Worst trade,
+Test - Ito,worst_trade,Worst trade,-0.11511821528875332
+"Test - MACD(6,26,12)",worst_trade,Worst trade,-0.10229844895089646
+Test - Buy & Hold,worst_trade,Worst trade,
+Full Data - Ito,avg_holding_days,Average holding days,11.68
+"Full Data - MACD(6,26,12)",avg_holding_days,Average holding days,12.795081967213115
+Full Data - Buy & Hold,avg_holding_days,Average holding days,
+Test - Ito,avg_holding_days,Average holding days,18.933333333333334
+"Test - MACD(6,26,12)",avg_holding_days,Average holding days,14.027777777777779
+Test - Buy & Hold,avg_holding_days,Average holding days,
+Full Data - Ito,median_holding_days,Median holding days,3.5
+"Full Data - MACD(6,26,12)",median_holding_days,Median holding days,12.0
+Full Data - Buy & Hold,median_holding_days,Median holding days,
+Test - Ito,median_holding_days,Median holding days,5.0
+"Test - MACD(6,26,12)",median_holding_days,Median holding days,12.0
+Test - Buy & Hold,median_holding_days,Median holding days,
+Full Data - Ito,expectancy_per_trade,Expectancy per trade,0.06309553646629987
+"Full Data - MACD(6,26,12)",expectancy_per_trade,Expectancy per trade,0.025516139568696524
+Full Data - Buy & Hold,expectancy_per_trade,Expectancy per trade,
+Test - Ito,expectancy_per_trade,Expectancy per trade,0.16163406436782718
+"Test - MACD(6,26,12)",expectancy_per_trade,Expectancy per trade,0.05472967205488154
+Test - Buy & Hold,expectancy_per_trade,Expectancy per trade,
+Full Data - Ito,avg_trade_points,Average trade points,2.6891418999999983
+"Full Data - MACD(6,26,12)",avg_trade_points,Average trade points,1.430560737704918
+Full Data - Buy & Hold,avg_trade_points,Average trade points,
+Test - Ito,avg_trade_points,Average trade points,8.074106666666664
+"Test - MACD(6,26,12)",avg_trade_points,Average trade points,4.260827083333333
+Test - Buy & Hold,avg_trade_points,Average trade points,
+Full Data - Ito,median_trade_points,Median trade points,0.16641249999999033
+"Full Data - MACD(6,26,12)",median_trade_points,Median trade points,-0.2346099999999992
+Full Data - Buy & Hold,median_trade_points,Median trade points,
+Test - Ito,median_trade_points,Median trade points,4.212875
+"Test - MACD(6,26,12)",median_trade_points,Median trade points,-0.2501150000000004
+Test - Buy & Hold,median_trade_points,Median trade points,
+Full Data - Ito,best_trade_points,Best trade points,81.81934999999999
+"Full Data - MACD(6,26,12)",best_trade_points,Best trade points,80.8185
+Full Data - Buy & Hold,best_trade_points,Best trade points,
+Test - Ito,best_trade_points,Best trade points,81.81934999999999
+"Test - MACD(6,26,12)",best_trade_points,Best trade points,80.8185
+Test - Buy & Hold,best_trade_points,Best trade points,
+Full Data - Ito,worst_trade_points,Worst trade points,-17.203500000000002
+"Full Data - MACD(6,26,12)",worst_trade_points,Worst trade points,-15.062450000000005
+Full Data - Buy & Hold,worst_trade_points,Worst trade points,
+Test - Ito,worst_trade_points,Worst trade points,-17.203500000000002
+"Test - MACD(6,26,12)",worst_trade_points,Worst trade points,-15.062450000000005
+Test - Buy & Hold,worst_trade_points,Worst trade points,
